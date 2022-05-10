@@ -1,0 +1,4 @@
+url=http://lichess.org
+username=SeleniumTest
+password=SeleniumTest
+pgn=./pgn//606398.pgn
